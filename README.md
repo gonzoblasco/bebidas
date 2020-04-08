@@ -10,4 +10,4 @@ tragos recomendados que contengan dicho ingrediente.
 * Usaremos React Hooks
 * Usaremos TheCocktailDB API
 
-TODO: Buscar una API similar que se encuentre en español
+*TODO*: Buscar una API similar que se encuentre en español
